@@ -1,1 +1,0 @@
-print("Hello, Linux Python world again!")
